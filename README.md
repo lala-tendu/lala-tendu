@@ -15,30 +15,11 @@ validate AI outputs, and power real backend APIs.
 
 ---
 
-## 🧠 Featured Projects
-### 🔹 AutoFlow-AI
-LLM-powered workflow automation engine  
-- Converts unstructured inputs into structured outputs  
-- Rule-based + LLM validation  
-- Designed for real team workflows  
-
-### 🔹 LLM-Guard
-AI output validation & quality checking system  
-- Schema validation + LLM-as-judge  
-- Confidence scoring for AI outputs  
-
-### 🔹 PromptOps
-Prompt management & evaluation platform  
-- Prompt versioning & comparison  
-- Latency and output tracking  
-
----
-
 ## 🛠 Tech Stack
 **Languages:** Python  
 **Backend:** FastAPI, REST APIs  
 **AI:** LLM APIs, prompt engineering  
-**Data:** SQLite / PostgreSQL  
+**Data:** MySQL / PostgreSQL  
 **Tools:** Git, Linux
 
 ---
